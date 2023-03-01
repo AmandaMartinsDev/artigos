@@ -8,4 +8,4 @@
 
 ## 📜 Licença
 
-Este projeto é feito sobre a licença do Creative Commons Attribution Share Alike 4.0 International, para mais informações sobre a sua possível utilização e modificação, [clique aqui](LICENSE).
+Este projeto é feito sobre a licença do Creative Commons Attribution Share Alike 4.0 International, para mais informações sobre a sua possível utilização, modificação e compartilhamento, [clique aqui](LICENSE).
